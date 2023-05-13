@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+table{
+  width: 300px;
+  height: 300px
+}
+td{
+  border: 1px black solid;
+}
+
+/* Add coding to classes here */
+
+
+
